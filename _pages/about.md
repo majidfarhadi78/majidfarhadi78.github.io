@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Department of Electrical and Computer Engineering, University of Alberta, Edmonton, Canada
 
