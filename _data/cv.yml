@@ -73,9 +73,9 @@ cv:
           - Designed a PCB and implemented a web client for a smart thermostat on an ESP8266-12E module.
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "SCFNNs: Stochastic Computing Fuzzy Neural Networks"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: "2026"
+          - Majid Farhadi, Witold Pedrycz, Jie Han
+        publisher: IEEE Embedded System Letters (ESL)
+        releaseDate: 2026-01-22
         url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11360989
