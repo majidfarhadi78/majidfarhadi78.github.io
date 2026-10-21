@@ -89,8 +89,6 @@ cv:
 
     Skills:
       - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
