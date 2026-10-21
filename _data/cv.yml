@@ -18,3 +18,11 @@ cv:
         start_date: 2023
         end_date: 2026
         score: "3.9/4"
+
+      - institution: Isfahan University of Technology
+        location: Isfahan, Iran
+        area: Computer Engineering
+        studyType: Bachelor of Science
+        start_date: 2018
+        end_date: 2023
+        score: "18.36/20 (3.9/4)"
