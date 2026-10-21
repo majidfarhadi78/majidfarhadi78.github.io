@@ -10,28 +10,21 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: University of Alberta
+        location: Edmonton, Canada
+        area: Computer Engineering
+        studyType: Master of Science
+        start_date: 2023
+        end_date: 2026
+        score: "3.9/4"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Isfahan University of Technology
+        location: Isfahan, Iran
+        area: Computer Engineering
+        studyType: Bachelor of Science
+        start_date: 2018
+        end_date: 2023
+        score: "18.36/20 (3.9/4)"
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
