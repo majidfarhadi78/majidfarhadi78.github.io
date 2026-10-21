@@ -9,9 +9,20 @@ cv:
     - network: LinkedIn
       username: majid-farhadi
 
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+  sections:
+    Education:
+      - institution: University of Alberta
+        location: Edmonton, Canada
+        area: Computer Engineering
+        studyType: Master of Science
+        start_date: 2023
+        end_date: 2026
+        score: "3.9/4"
+        
+      - institution: Isfahan University of Technology
+        location: Isfahan, Iran
+        area: Computer Engineering
+        studyType: Bachelor of Science
+        start_date: 2018
+        end_date: 2023
+        score: "18.36/20 (3.9/4)"
