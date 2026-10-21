@@ -73,7 +73,7 @@ cv:
           - Designed a PCB and implemented a web client for a smart thermostat on an ESP8266-12E module.
 
     Publications:
-      - title: SCFNNs Stochastic Computing Fuzzy Neural Networks
+      - title: "SCFNNs: Stochastic Computing Fuzzy Neural Networks"
         authors:
           - Albert Einstein
         publisher: Annalen der Physik
