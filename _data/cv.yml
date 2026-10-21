@@ -26,3 +26,17 @@ cv:
         start_date: 2018
         end_date: 2023
         score: "18.36/20 (3.9/4)"
+
+    Experience:
+      - company: Very Large Scale Integration (VLSI) Research Lab, University of Alberta
+        position: Graduate Research Assistant
+        location: Edmonton, Canada
+        start_date: 2023
+        end_date: 2026
+        highlights:
+          - Designed and implemented AI architectures, including training and inference circuits, on FPGAs.
+          - Integrated and synchronized IP core modules with edge detector 1-stage synchronizers.
+          - Wrote testbench modules for behavioral, functional, and timing simulation and verification of RTL designs.
+          - Defined implementation constraints including clock period to meet timing requirements.
+          - Optimized dynamic power by minimizing switching activity through stop conditions.
+          - Fine-tuned distance functions in clustering algorithms and derived gradients in backpropagation algorithms.
