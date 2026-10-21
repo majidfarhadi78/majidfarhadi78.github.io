@@ -42,3 +42,4 @@ cv:
           - Fine-tuned distance functions in clustering algorithms and derived gradients in backpropagation algorithms.
 
       - company: abc
+        position: abc
