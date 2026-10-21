@@ -69,3 +69,5 @@ cv:
         location: Isfahan, Iran
         start_date: 2021
         end_date: 2021
+        highlights:
+        - Designed a PCB and implemented a web client for a smart thermostat on an ESP8266-12E module.
