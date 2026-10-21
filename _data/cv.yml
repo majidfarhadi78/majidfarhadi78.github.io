@@ -113,3 +113,7 @@ cv:
         publisher: ICML 2024 Workshop on Structured Probabilistic Inference & Generative Modeling
         releaseDate: 2024-07-19
         url: https://openreview.net/forum?id=m02qzfjlHA&referrer=%5Bthe%20profile%20of%20Kiarash%20Zahirnia%5D(%2Fprofile%3Fid%3D~Kiarash_Zahirnia2)
+
+      - title: "1BCMs: 1-Bit Cognitive Maps"
+        authors:
+          - Majid Farhadi, Witold Pedrycz, Jie Han
