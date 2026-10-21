@@ -39,8 +39,6 @@ cv:
           - Defined implementation constraints including clock period to meet timing requirements.
           - Optimized dynamic power by minimizing switching activity through stop conditions.
           - Fine-tuned distance functions in clustering algorithms and derived gradients in backpropagation algorithms.
-
-      - company: Structured Machine Learning Research Lab, Simon Fraser University
         
     Volunteer:
       - company: People's Climate March
