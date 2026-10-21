@@ -72,8 +72,10 @@ cv:
         highlights:
           - Designed a PCB and implemented a web client for a smart thermostat on an ESP8266-12E module.
 
-    Honors:
-      bullet: Ranked 8th in the final stage of the national scientific Olympiad of Computer Engineering in 2022.
-      bullet: Ranked 8th in Computer Engineering at the Isfahan University of Technology among more than 90 students.
-      bullet: Ranked 13th in the national entrance exam for Computer Engineering graduate program among more than 11000 applicants in 2022.
-      bullet: Ranked 17th in the national entrance exam for Computer Engineering graduate program among more than 10000 applicants in 2023.
+    Publications:
+      - title: SCFNNs: Stochastic Computing Fuzzy Neural Networks
+        authors:
+          - Majid Farhadi, Witold Pedrycz, Jie Han
+        publisher: IEEE Embedded System Letters (ESL)
+        releaseDate: 2026
+        url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11360989
