@@ -9,6 +9,13 @@ cv:
     - network: LinkedIn
       username: majid-farhadi
 
+  address:
+    street: 2712 Broadway St
+    city: San Francisco
+    region: California
+    postalCode: CA 94115
+    countryCode: US
+
   sections:
     Education:
       - institution: University of Alberta
