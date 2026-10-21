@@ -69,3 +69,5 @@ cv:
         location: Isfahan, Iran
         start_date: 2021
         end_date: 2021
+        highlights:
+          - Designed an interface for a hardware accelerator for the time-slotted channel hopping (TSCH) protocol.
