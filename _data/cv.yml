@@ -4,37 +4,30 @@ cv:
   email: farhadi@ualberta.ca
   location: Edmonton, Alberta, Canada
   image: ""
-  summary: Intersted in RTL design
+  summary: Interested in RTL Design on Field-Programmable Gate Arrays (FPGAs)
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
       username: majidfarhadi78
     - network: LinkedIn
       username: majid-farhadi
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: 9107–116 Street NW
+    city: Edmonton
+    region: Alberta
+    postalCode: T6G 2V4
+    countryCode: Canada
 
   sections:
     Education:
       - institution: University of Alberta
         location: Edmonton, Canada
-        url: https://www.uzh.ch/
         area: Computer Engineering
         studyType: Master of Science
         start_date: 2023
         end_date: 2026
         score: "3.9/4"
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
 
       - institution: Isfahan University of Technology
         location: Isfahan, Iran
@@ -43,9 +36,6 @@ cv:
         start_date: 2018
         end_date: 2023
         score: "18.36/20 (3.9/4)"
-        highlights:
-          - Description 1.
-          - Description 2.
 
     Experience:
       - company: Very Large Scale Integration (VLSI) Research Lab, University of Alberta
@@ -53,10 +43,13 @@ cv:
         location: Edmonton, Canada
         start_date: 2023
         end_date: 2026
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
         highlights:
-          - Relativity
-          - Description 2.
+          - Designed and implemented AI architectures, including training and inference circuits, on FPGAs.
+          - Integrated and synchronized IP core modules with edge detector 1-stage synchronizers.
+          - Wrote testbench modules for behavioral, functional, and timing simulation and verification of RTL designs.
+          - Defined implementation constraints including clock period to meet timing requirements.
+          - Optimized dynamic power by minimizing switching activity through stop conditions.
+          - Fine-tuned distance functions in clustering algorithms and derived gradients in backpropagation algorithms.
 
       - company: Structured Machine Learning Research Lab, Simon Fraser University
         position: Graduate Research Assistant
@@ -144,11 +137,11 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: German
-        summary: "Native speaker"
-
       - name: English
         summary: "Fluent"
+
+      - name: Persian
+        summary: "Native speaker"
 
     Interests:
       - name: Physics
