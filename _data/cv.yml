@@ -27,42 +27,49 @@ cv:
         score: "18.36/20 (3.9/4)"
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Very Large Scale Integration (VLSI) Research Lab, University of Alberta
+        position: Graduate Research Assistant
+        location: Edmonton, Canada
+        start_date: 2023
+        end_date: 2026
         highlights:
-          - Relativity
-          - Description 2.
+          - Designed and implemented AI architectures, including training and inference circuits, on FPGAs.
+          - Integrated and synchronized IP core modules with edge detector 1-stage synchronizers.
+          - Wrote testbench modules for behavioral, functional, and timing simulation and verification of RTL designs.
+          - Defined implementation constraints including clock period to meet timing requirements.
+          - Optimized dynamic power by minimizing switching activity through stop conditions.
+          - Fine-tuned distance functions in clustering algorithms and derived gradients in backpropagation algorithms.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Structured Machine Learning Research Lab, Simon Fraser University
+        position: Graduate Research Assistant
+        location: Burnaby, Canada
+        start_date: 2023
+        end_date: 2024
         highlights:
-          - Description 1.
-          - Description 2.
+          - Counted motifs in a graph database by matrix multiplication, suitable for ML applications.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: Embedded Systems and Networks Research Lab, Isfahan University of Technology
+        position: Undergraduate Research Assistant
+        location: Isfahan, Iran
+        start_date: 2021
+        end_date: 2023
+        highlights:
+          - Designed an interface for a hardware accelerator for the time-slotted channel hopping (TSCH) protocol.
+          - Stacked on top of an IEEE 802.15.4 transceiver used in wireless sensor networks in IoT applications.
+          - Deployed on an Altera DE1-SoC board, featuring a Cyclone FPGA and a dual-core Cortex-A9 ARM.
+          - Integrated the ARM processors and FPGA fabric through a lightweight master-slave AXI bridge.
+          - Enabled full-duplex read/write communication between FPGA and ARM processor.
+          - Compiled C programs for the target ARM architecture using makefiles.
+          - Accessed the FPGA from C programs via virtual addresses provided by memory mappings.
+          - Offloaded computation from the processor and exploited the FPGA’s high throughput.
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: Kian-Pardaz Naghsh-e-Jahan Engineering Company
+        position: Intern
+        location: Isfahan, Iran
+        start_date: 2021
+        end_date: 2021
+        highlights:
+        - Designed a PCB and implemented a web client for a smart thermostat on an ESP8266-12E module.
 
     Volunteer:
       - company: People's Climate March
