@@ -40,6 +40,14 @@ cv:
           - Optimized dynamic power by minimizing switching activity through stop conditions.
           - Fine-tuned distance functions in clustering algorithms and derived gradients in backpropagation algorithms.
 
+        - company: Structured Machine Learning Research Lab, Simon Fraser University
+        position: Graduate Research Assistant
+        location: Burnaby, Canada
+        start_date: 2023
+        end_date: 2024
+        highlights:
+          - Counted motifs in a graph database by matrix multiplication, suitable for ML applications.
+
     Volunteer:
       - company: People's Climate March
         position: Lead Organizer
