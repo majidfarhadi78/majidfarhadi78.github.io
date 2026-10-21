@@ -71,21 +71,6 @@ cv:
         end_date: 2021
         highlights:
           - Designed a PCB and implemented a web client for a smart thermostat on an ESP8266-12E module.
-          
-    Publications:
-      - title: "SCFNNs: Stochastic Computing Fuzzy Neural Networks"
-        authors:
-          - Majid Farhadi, Witold Pedrycz, Jie Han
-        publisher: IEEE Embedded System Letters (ESL)
-        releaseDate: 2026-01-22
-        url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11360989
-        
-      - title: "Rule-Enhanced Graph Learning"
-        authors:
-          - Ali Khazraee, Abdolreza Mirzaei, Majid Farhadi, Parmis Nadaf, Kiarash Zahirnia, Mohammad Salameh, Kevin Cannons, Richard Mar, Mingyi Wu, Oliver Schulte
-        publisher: ICML 2024 Workshop on Structured Probabilistic Inference & Generative Modeling
-        releaseDate: 2024-07-19
-        url: https://openreview.net/forum?id=m02qzfjlHA&referrer=%5Bthe%20profile%20of%20Kiarash%20Zahirnia%5D(%2Fprofile%3Fid%3D~Kiarash_Zahirnia2)
         
     Languages:
       - name: English
