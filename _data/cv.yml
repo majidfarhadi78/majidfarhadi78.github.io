@@ -41,5 +41,5 @@ cv:
           - Optimized dynamic power by minimizing switching activity through stop conditions.
           - Fine-tuned distance functions in clustering algorithms and derived gradients in backpropagation algorithms.
 
-      - company: abc
-        position: abc
+      - company: Structured Machine Learning Research Lab, Simon Fraser University
+        position: Graduate Research Assistant
