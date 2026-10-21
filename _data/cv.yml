@@ -72,33 +72,6 @@ cv:
         highlights:
           - Designed a PCB and implemented a web client for a smart thermostat on an ESP8266-12E module.
 
-    Volunteer:
-      - company: Very Large Scale Integration (VLSI) Research Lab, University of Alberta
-        position: Sub-reviewer for Conference and Journal Papers
-        location: Edmonton, Canada
-        start_date: 2023
-        end_date: 2026
-        highlights:
-          - DDECS 2026
-          - ICLR 2026
-          - DATE 2026
-          - ASPDAC 2026
-          - IEEE TVLSI
-          - NeurIPS 2025
-          - MLCAD 2025
-          - ICCAD 2025
-          - IEEE TETC
-          - LAD 2025
-          - IEEE ESL
-          - DATE 2025
-          - ASPDAC 2025
-          - MLCAD 2024
-          - DFT 2024
-          - ICCAD 2024
-          - DDECS 2024
-          - ISCAS 2024
-          - VLSID 2024
-
     Publications:
       - title: "SCFNNs: Stochastic Computing Fuzzy Neural Networks"
         authors:
