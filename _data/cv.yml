@@ -89,6 +89,7 @@ cv:
 
     Skills:
       - name: Physics
+        level: Master
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
