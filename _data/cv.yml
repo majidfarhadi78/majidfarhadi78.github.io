@@ -97,7 +97,6 @@ cv:
     Interests:
       - name: RTL
       - name: FPGAs
-      - name: Embedded
 
     Projects:
       - name: Soft-Core Implementation of MIPS Architecture on FPGA.
