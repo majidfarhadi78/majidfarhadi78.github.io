@@ -101,6 +101,3 @@ cv:
 
     Skills:
       - name: Programming Languages
-        keywords: "Verilog, VHDL, C, C++, Python, Bash, TCL, CMake, Assembly, MATLAB"
-      - name: Tools and Frameworks
-        keywords: "Xilinx Vivado, Quartus Prime, ModelSim, Xilinx ISE, Platform Designer, Altium Designer, STM32CubeMX, Arduino IDE, Atmel Studio, Raspberry Pi Pico SDK, GDB, FreeRTOS, Git"
