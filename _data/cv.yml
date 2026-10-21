@@ -121,3 +121,7 @@ cv:
       - title: "A Memory-Efficient and Low-Complexity Probabilistic Sigmoidal Approximator"
         authors:
           - Wenhao Lu, Majid Farhadi, Xingjian Gao, Chris Lynch, Jie Han
+
+      - title: Enhancing Graph Generation With First-Order Logic Rules
+        authors:
+         - Ali Khazraee, Abdolreza Mirzaei, Majid Farhadi, Parmis Nadaf, Kiarash Zahirnia, Mohammad Salameh, Kevin Cannons, Richard Mar, Mingyi Wu, Oliver Schulte
