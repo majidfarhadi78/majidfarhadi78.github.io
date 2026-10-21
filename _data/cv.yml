@@ -94,10 +94,10 @@ cv:
           - "Men of the year 2014 by Time magazine"
 
     Honors:
-      - Ranked 8th in the final stage of the national scientific Olympiad of Computer Engineering in 2022.
-      - Ranked 8th in Computer Engineering at the Isfahan University of Technology among more than 90 students.
-      - Ranked 13th in the national entrance exam for Computer Engineering graduate program among more than 11000 applicants in 2022.
-      - Ranked 17th in the national entrance exam for Computer Engineering graduate program among more than 10000 applicants in 2023.
+      - name: Ranked 8th in the final stage of the national scientific Olympiad of Computer Engineering in 2022.
+      - name: Ranked 8th in Computer Engineering at the Isfahan University of Technology among more than 90 students.
+      - name: Ranked 13th in the national entrance exam for Computer Engineering graduate program among more than 11000 applicants in 2022.
+      - name: Ranked 17th in the national entrance exam for Computer Engineering graduate program among more than 10000 applicants in 2023.
 
     Publications:
       - title: SCFNNs: Stochastic Computing Fuzzy Neural Networks
