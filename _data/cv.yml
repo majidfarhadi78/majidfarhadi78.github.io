@@ -45,9 +45,7 @@ cv:
         location: Burnaby, Canada
         start_date: 2023
         end_date: 2024
-        highlights:
-          - Counted motifs in a graph database by matrix multiplication, suitable for ML applications.
-
+        
     Volunteer:
       - company: People's Climate March
         position: Lead Organizer
