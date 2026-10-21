@@ -80,7 +80,7 @@ cv:
         releaseDate: 2026-01-22
         url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11360989
 
-      - title: Rule-Enhanced Graph Learning
+      - title: "Rule-Enhanced Graph Learning"
         authors:
           - Ali Khazraee, Abdolreza Mirzaei, Majid Farhadi, Parmis Nadaf, Kiarash Zahirnia, Mohammad Salameh, Kevin Cannons, Richard Mar, Mingyi Wu, Oliver Schulte
         publisher: ICML 2024 Workshop on Structured Probabilistic Inference & Generative Modeling
@@ -91,11 +91,11 @@ cv:
         authors:
           - Majid Farhadi, Witold Pedrycz, Jie Han
 
-      - title: A Memory-Efficient and Low-Complexity Probabilistic Sigmoidal Approximator
+      - title: "A Memory-Efficient and Low-Complexity Probabilistic Sigmoidal Approximator"
         authors:
          - Wenhao Lu, Majid Farhadi, Xingjian Gao, Chris Lynch, Jie Han
 
-      - title: Enhancing Graph Generation With First-Order Logic Rules
+      - title: "Enhancing Graph Generation With First-Order Logic Rules"
         authors:
          - Ali Khazraee, Abdolreza Mirzaei, Majid Farhadi, Parmis Nadaf, Kiarash Zahirnia, Mohammad Salameh, Kevin Cannons, Richard Mar, Mingyi Wu, Oliver Schulte
 
