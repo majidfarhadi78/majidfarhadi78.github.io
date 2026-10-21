@@ -48,6 +48,3 @@ cv:
         end_date: 2024
         highlights:
           - Counted motifs in a graph database by matrix multiplication, suitable for ML applications.
-      
-      - company: Embedded Systems and Networks Research Lab, Isfahan University of Technology
-        position: Undergraduate Research Assistant
