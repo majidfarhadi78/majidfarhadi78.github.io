@@ -98,3 +98,9 @@ cv:
       - title: Enhancing Graph Generation With First-Order Logic Rules
         authors:
          - Ali Khazraee, Abdolreza Mirzaei, Majid Farhadi, Parmis Nadaf, Kiarash Zahirnia, Mohammad Salameh, Kevin Cannons, Richard Mar, Mingyi Wu, Oliver Schulte
+
+    Skills:
+      - name: Programming Languages
+        keywords: "Verilog, VHDL, C, C++, Python, Bash, TCL, CMake, Assembly, MATLAB"
+      - name: Tools and Frameworks
+        keywords: "Xilinx Vivado, Quartus Prime, ModelSim, Xilinx ISE, Platform Designer, Altium Designer, STM32CubeMX, Arduino IDE, Atmel Studio, Raspberry Pi Pico SDK, GDB, FreeRTOS, Git"
