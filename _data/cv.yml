@@ -1,6 +1,5 @@
 cv:
   name: Albert Einstein
-  label: Scientist
   email: einstein@example.com
 
   social_networks:
