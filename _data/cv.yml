@@ -87,6 +87,12 @@ cv:
         releaseDate: 2024-07-19
         url: https://openreview.net/forum?id=m02qzfjlHA&referrer=%5Bthe%20profile%20of%20Kiarash%20Zahirnia%5D(%2Fprofile%3Fid%3D~Kiarash_Zahirnia2)
 
+    Skills:
+      - name: Physics
+        level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+
     Languages:
       - name: English
         summary: "Fluent"
