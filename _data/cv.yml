@@ -73,7 +73,8 @@ cv:
           - Designed a PCB and implemented a web client for a smart thermostat on an ESP8266-12E module.
 
     Volunteer:
-      - position: Sub-reviewer for Conference and Journal Papers
+      - company: Very Large Scale Integration (VLSI) Research Lab, University of Alberta
+        position: Sub-reviewer for Conference and Journal Papers
         location: Edmonton, Canada
         start_date: 2023
         end_date: 2026
