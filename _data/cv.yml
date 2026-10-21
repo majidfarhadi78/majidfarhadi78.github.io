@@ -1,9 +1,7 @@
 cv:
   name: Albert Einstein
-  label: a
   email: einstein@example.com
   location: Princeton, NJ
-  summary: a
 
   social_networks:
     - network: X
