@@ -117,7 +117,3 @@ cv:
       - title: "1BCMs: 1-Bit Cognitive Maps"
         authors:
           - Majid Farhadi, Witold Pedrycz, Jie Han
-
-      - title: A Memory-Efficient and Low-Complexity Probabilistic Sigmoidal Approximator
-        authors:
-         - Wenhao Lu, Majid Farhadi, Xingjian Gao, Chris Lynch, Jie Han
