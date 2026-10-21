@@ -98,3 +98,11 @@ cv:
           - DDECS 2024
           - ISCAS 2024
           - VLSID 2024
+
+    Publications:
+      - title: "SCFNNs: Stochastic Computing Fuzzy Neural Networks"
+        authors:
+          - Majid Farhadi, Witold Pedrycz, Jie Han
+        publisher: IEEE Embedded System Letters (ESL)
+        releaseDate: 2026-01-22
+        url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11360989
