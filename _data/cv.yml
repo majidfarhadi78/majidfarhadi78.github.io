@@ -63,3 +63,11 @@ cv:
           - Compiled C programs for the target ARM architecture using makefiles.
           - Accessed the FPGA from C programs via virtual addresses provided by memory mappings.
           - Offloaded computation from the processor and exploited the FPGA’s high throughput.
+
+      - company: Kian-Pardaz Naghsh-e-Jahan Engineering Company
+        position: Intern
+        location: Isfahan, Iran
+        start_date: 2021
+        end_date: 2021
+        highlights:
+          - Designed a PCB and implemented a web client for a smart thermostat on an ESP8266-12E module.
