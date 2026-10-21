@@ -103,3 +103,8 @@ cv:
       - name: Implementation of Autonomous Obstacle Avoiding Robot by Arduino Board and Ultrasonic Sensor.
       - name: Image Seam Carving based on Depth Map.
       - name: Time-Series Forecasting with Deep and Recurrent Neural Networks.
+
+    References:
+      - name: Dr. Jie Han
+      - name: Dr. Witold Pedrycz
+      - name: Dr. Oliver Schulte
