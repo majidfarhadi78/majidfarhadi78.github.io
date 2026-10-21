@@ -118,6 +118,6 @@ cv:
         authors:
           - Majid Farhadi, Witold Pedrycz, Jie Han
 
-      - title: A Memory-Efficient and Low-Complexity Probabilistic Sigmoidal Approximator
+      - title: "A Memory-Efficient and Low-Complexity Probabilistic Sigmoidal Approximator"
         authors:
          - Wenhao Lu, Majid Farhadi, Xingjian Gao, Chris Lynch, Jie Han
