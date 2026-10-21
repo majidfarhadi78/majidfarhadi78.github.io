@@ -2,3 +2,9 @@ cv:
   name: Majid Farhadi
   email: farhadi@ualberta.ca
   location: Edmonton, Alberta, Canada
+
+  social_networks:
+    - network: GitHub
+      username: majidfarhadi78
+    - network: LinkedIn
+      username: majid-farhadi
