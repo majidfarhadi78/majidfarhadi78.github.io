@@ -121,3 +121,9 @@ cv:
     Interests:
       - name: Stochastic Computing
       - name: Fuzzy Sets
+      - name: Neural Networks
+      - name: FPGAs
+      - name: Hardware Acceleration
+      - name: Computer Architecture
+      - name: Computer Vision
+      - name: Cryptography
