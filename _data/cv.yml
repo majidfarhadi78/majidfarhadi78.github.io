@@ -129,11 +129,16 @@ cv:
       - name: Cryptography
 
     Projects:
-      - name: Soft-Core Implementation of MIPS Architecture on FPGA.
-      - name: Adding System Call to XV6 Kernel.
-      - name: Development of Smart Health Bracelet to Communicate Vital Signs by Arduino Board and GSM Module.
-      - name: ECG Signals Analysis on IoT Platform by Autoencoders.
-      - name: Prediction of DDoS Botnet Attacks on IoT Devices by Data Mining Methods.
-      - name: Implementation of Autonomous Obstacle Avoiding Robot by Arduino Board and Ultrasonic Sensor.
-      - name: Image Seam Carving based on Depth Map.
-      - name: Time-Series Forecasting with Deep and Recurrent Neural Networks.
+      - name: Soft-Core Implementation of MIPS Architecture on FPGA
+      - name: Adding System Call to XV6 Kernel
+      - name: Development of Smart Health Bracelet to Communicate Vital Signs by Arduino Board and GSM Module
+      - name: ECG Signals Analysis on IoT Platform by Autoencoders
+      - name: Prediction of DDoS Botnet Attacks on IoT Devices by Data Mining Methods
+      - name: Implementation of Autonomous Obstacle Avoiding Robot by Arduino Board and Ultrasonic Sensor
+      - name: Image Seam Carving based on Depth Map
+      - name: Time-Series Forecasting with Deep and Recurrent Neural Networks
+
+    References:
+      - name: Dr. Jie Han
+      - name: Dr. Witold Pedrycz
+      - name: Dr. Oliver Schulte
