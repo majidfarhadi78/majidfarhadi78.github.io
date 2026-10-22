@@ -117,3 +117,6 @@ cv:
 
       - name: Persian
         summary: "Native speaker"
+
+    Interests:
+      - name: Stochastic Computing
