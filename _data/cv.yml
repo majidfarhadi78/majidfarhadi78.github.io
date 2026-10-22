@@ -110,3 +110,10 @@ cv:
       - name: Tools and Frameworks
         level: Master
         keywords: "Xilinx Vivado, Quartus Prime, ModelSim, Xilinx ISE, Platform Designer, Altium Designer, STM32CubeMX, Arduino IDE, Atmel Studio, Raspberry Pi Pico SDK, GDB, FreeRTOS, Git"
+
+    Languages:
+      - name: English
+        summary: "Fluent"
+        
+      - name: Persian
+        summary: "Native speaker"
