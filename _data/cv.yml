@@ -118,16 +118,6 @@ cv:
       - name: Persian
         summary: "Native speaker"
 
-    Interests:
-      - name: Stochastic Computing
-      - name: Fuzzy Sets
-      - name: Neural Networks
-      - name: FPGAs
-      - name: Hardware Acceleration
-      - name: Computer Architecture
-      - name: Computer Vision
-      - keywords: "Cryptography"
-
     Projects:
       - name: Soft-Core Implementation of MIPS Architecture on FPGA
       - name: Adding System Call to XV6 Kernel
