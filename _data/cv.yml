@@ -126,7 +126,7 @@ cv:
       - name: Hardware Acceleration
       - name: Computer Architecture
       - name: Computer Vision
-      - name: Cryptography
+      - Cryptography
 
     Projects:
       - name: Soft-Core Implementation of MIPS Architecture on FPGA
