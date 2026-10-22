@@ -103,5 +103,6 @@ cv:
         publisher: Under reivew at International Conference on Learning Representations (ICLR)
 
     Skills:
-      - name: Physics
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Programming Languages
+        level: Master
+        keywords: "Verilog, VHDL, C, C++, Python, Bash, TCL, CMake, Assembly, MATLAB"
