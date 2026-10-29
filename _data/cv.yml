@@ -105,11 +105,11 @@ cv:
     Skills:
       - name: Programming Languages
         level: Master
-        keywords: "Verilog, VHDL, C, C++, Python, Bash, TCL, CMake, Assembly, MATLAB"
+        keywords: "Verilog/SystemVerilog, VHDL, C/C++, Python, Bash, TCL, Assembly, MATLAB"
 
       - name: Tools and Frameworks
         level: Master
-        keywords: "Xilinx Vivado, Quartus Prime, ModelSim, Xilinx ISE, Platform Designer, Altium Designer, STM32CubeMX, Arduino IDE, Atmel Studio, Raspberry Pi Pico SDK, GDB, FreeRTOS, Git"
+        keywords: "Xilinx Vivado, Quartus Prime, ModelSim, Xilinx ISE, Altium Designer, STM32CubeMX, Arduino IDE, Platform Designer, Atmel Studio, Raspberry Pi Pico SDK, CMake, GDB, FreeRTOS, UVM, Git"
 
     Languages:
       - name: English
