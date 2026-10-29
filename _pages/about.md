@@ -29,7 +29,7 @@ social: true # includes social icons at the bottom of the page -->
 
 I received the Master of Science degree in Computer Engineering from the University of Alberta, Edmonton, Canada, in 2026 and the Bachelor of Science degree in Computer Engineering from Isfahan University of Technology, Isfahan, Iran, in 2023.
 
-I have extensive hands-on experience in digital design, computer architecture, FPGA synthesis and implementation, RTL design, high-speed AXI interconnects, resource and power optimization, clock and timing management, static timing analysis (STA), simulation, waveform analysis, verification, and testing.
+I have extensive hands-on experience in digital design, computer architecture, FPGA synthesis and implementation, RTL design, high-speed AXI interconnects, resource and power optimization, static timing analysis (STA), timing closure, clock domain crossing (CDC), simulation, waveform analysis, verification, and testing.
 
 I have extensive experience in embedded system, software, and firmware design and debugging, SoC and HW/SW co-design, edge IoT applications ranging from bare-metal to kernel-based systems, UART/SPI/I2C and TCP/IP communication protocols, ADC/DAC peripherals, and AVR/ARM/ESP/STM32 micro-controllers.
 
