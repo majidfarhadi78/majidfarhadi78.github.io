@@ -105,7 +105,7 @@ cv:
     Skills:
       - name: Programming Languages
         level: Master
-        keywords: "Verilog/SystemVerilog, VHDL, C/C++, Python, Bash, TCL, Assembly, MATLAB"
+        keywords: "Verilog/SystemVerilog, VHDL, C/C++, Python, Bash, Tcl, Assembly, MATLAB"
 
       - name: Tools and Frameworks
         level: Master
